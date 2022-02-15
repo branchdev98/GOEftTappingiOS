@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  GO EFT Tapping
+
+  Created by AnCheng on 8/24/16.
+  Copyright © 2016 Long Hei. All rights reserved.
+*/
+
+"EFT INTRO" = "مقدمة عن الحرية الانفعالية";
+"YOUR EFT" = "الحرية الانفعالية الخاصة بك";
+"REMINDERS" = "التذكيرات";
+"VISIT US" = "بزيارتنا";
+"TRANSLATE" = "النسخة الإنجليزية \n ENGLISH VERSION";
+
+"Record" = "قم بالتسجيل";
+"Record XXX" = "XXX قم بالتسجيل";
+"Recording XXX..." = "...XXX  تسجيل";
+"Record intensity" = "قم بتسجيل الشدة";
+"Recording intensity..." = "تسجيل الشدة ...";
+
+"My feeling or symptom is recorded" = "تم تسجيل  شعوري أوأعراضي";
+"The intensity is recorded" = "تم تسجيل الشّدة";
+
+"My feeling or symptom is..." = "شعوري أوأعراضي هي ....";
+"The intensity is (0->10)..." = "شدّة الأعراض (0-> 10) ...";

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4B3C5AB3-292A-4F46-AB2B-CDCF581E4097</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GO EFT Tapping</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AC14CCBEE77A44DF9F0C6A6BD7A45FE515ACA96B</key>
+		<string>https://bitbucket.org/ancheng/eft-tapping.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GO EFT Tapping/GO EFT Tapping.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AC14CCBEE77A44DF9F0C6A6BD7A45FE515ACA96B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/ancheng/eft-tapping.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AC14CCBEE77A44DF9F0C6A6BD7A45FE515ACA96B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AC14CCBEE77A44DF9F0C6A6BD7A45FE515ACA96B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Git-GO%20EFT%20Tapping</string>
+		</dict>
+	</array>
+</dict>
+</plist>

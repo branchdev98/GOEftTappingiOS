@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  GO EFT Tapping
+
+  Created by AnCheng on 8/24/16.
+  Copyright © 2016 Long Hei. All rights reserved.
+*/
+
+"EFT INTRO" = "EFT INTRO";
+"YOUR EFT" = "YOUR EFT";
+"REMINDERS" = "REMINDERS";
+"VISIT US" = "VISIT US";
+"TRANSLATE" = "النسخة العربية \n ARABIC VERSION";
+
+"Record" = "Record";
+"Record XXX" = "Record XXX";
+"Recording XXX..." = "Recording XXX...";
+"Record intensity" = "Record intensity";
+"Recording intensity..." = "Recording intensity...";
+
+"My feeling or symptom is recorded" = "My feeling or symptom is recorded";
+"The intensity is recorded" = "The intensity is recorded";
+
+"My feeling or symptom is..." = "My feeling or symptom is...";
+"The intensity is (0->10)..." = "The intensity is (0->10)...";

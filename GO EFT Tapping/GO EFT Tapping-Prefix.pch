@@ -1,0 +1,33 @@
+//
+// Prefix header for all source files of the 'GO EFT Tapping' target in the 'GO EFT Tapping' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+
+#import "IAPManager.h"
+
+#endif
+
+#define SYSTEM_VERSION_GREATER_THAN_OR_EQUAL_TO(v) ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] != NSOrderedAscending)
+
+#define IS_IPHONE5 ( fabs( ( double )[ [ UIScreen mainScreen ] bounds ].size.height - ( double )568 ) < DBL_EPSILON )
+
+#define MYLocalizedString(key, comment) [[MYLocalizationSystem sharedInstance] localizedStringForKey:(key) value:(comment)];
+
+#define IS_WIDESCREEN ( fabs( ( double )[ [ UIScreen mainScreen ] bounds ].size.height - ( double )568 ) < DBL_EPSILON )
+#define IS_IPAD_DEVICE ( [ [ [ UIDevice currentDevice ] model ] isEqualToString: @"iPad" ] )
+#define IS_IPAD_SIMULATOR ( [ [ [ UIDevice currentDevice ] model ] isEqualToString: @"iPad Simulator" ] )
+#define IS_IPHONE_DEVICE ( [ [ [ UIDevice currentDevice ] model ] isEqualToString: @"iPhone" ] )
+#define IS_IPHONE_SIMULATOR ( [ [ [ UIDevice currentDevice ] model ] isEqualToString: @"iPhone Simulator" ] )
+#define IS_IPOD_DEVICE   ( [ [ [ UIDevice currentDevice ] model ] isEqualToString: @"iPod touch" ] )
+
+#define IS_IPHONE_5 ( (IS_IPHONE_DEVICE || IS_IPHONE_SIMULATOR) && IS_WIDESCREEN )
+#define IS_IPAD ( IS_IPAD_DEVICE || IS_IPAD_SIMULATOR )
